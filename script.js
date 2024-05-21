@@ -1,5 +1,5 @@
 function downloadAndroid() {
-    window.location.href = 'app-x86_64-release.apk'; 
+    window.location.href = 'app-arm64-v8a-release.apk'; 
 }
 
 function downloadiOS() {
